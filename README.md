@@ -1,6 +1,6 @@
 # Project Title
 
-Stock_Direction_Prediction
+Stock_Reliability_Prediction
 
 ## Summary
 
