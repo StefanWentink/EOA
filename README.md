@@ -4,8 +4,7 @@ Stock_Direction_Prediction
 
 ## Summary
 
-I would like to have support on differt tickers in the stock exchange system to tell me which are probably worth taking up in my retirement fund (so long time investment).
-Basic and technical information is widely spread available, including historical data, but due to the vast amount of information it is hard to separate (probable) healthy investments from others. 
+Support tool making the big shift in all available tickers in the stock exchange system, making predictions on some specific criteria like growth and reliablility. 
 
 
 ## Background
